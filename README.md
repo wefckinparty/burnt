@@ -1,0 +1,4 @@
+burnt
+=====
+
+offering
